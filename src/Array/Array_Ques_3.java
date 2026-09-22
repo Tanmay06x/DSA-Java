@@ -2,7 +2,6 @@ package Array;
 
 public class Array_Ques_3 {
     public static void main(String[] args) {
-
         int[] nums = {1, 1, 0, 3, 2};
         int j=0;
         for(int i=0;i<nums.length;i++){
