@@ -2,7 +2,7 @@ package Array;
 
 public class Array_Ques_1 {
     public static void main(String[] args) {
-//      #1 Two Sum Problem (Easy)
+//      #1-Two Sum Problem (Easy)
         int[] nums={2,11,7,5};
         int target=6;
 
