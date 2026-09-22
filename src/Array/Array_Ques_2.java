@@ -3,7 +3,7 @@ package Array;
 public class Array_Ques_2 {
     public static void main(String[] args) {
 
-//        #2-Contains Duplicate(Easy)
+//      #2-Contains Duplicate(Easy)
         int[] nums={1,2,3,2};
         boolean twice=false;
 
